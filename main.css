@@ -1,0 +1,102 @@
+#nav {
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-size:18px;
+    text-transform:capitalize;
+    width: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+#main1 {
+    font-family: 'Lobster', cursive;
+    width: 500px;
+    margin: auto;
+    background-color:#D6D6D6;
+    padding: 10px;
+    border: solid 2px blue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+#main2 {
+    font-family: 'Lobster', cursive;
+    width: 100px;
+    margin: auto;
+    background-color:#D6D6D6;
+    padding: 10px;
+    border: solid 2px blue;
+    border-radius: 10px;
+    
+}
+#footer {
+    font-family: 'Lobster', cursive;
+    width: 500px;
+    margin: auto;
+    background-color:#960;
+    padding: 10px;
+    border: solid 2px blue;
+
+}
+body{
+    background-image: url("https://wegotthiscovered.com/wp-content/uploads/2017/08/joker_ace_chemicals_by_bryanzap-damum39.jpg");
+    background-size: 100%;
+    opacity: 0.8;
+    margin-bottom: 200px;
+    background-attachment: fixed;   
+}
+#banner {
+    width: 1500px;
+    height: 100px ;
+    margin: 0 auto;
+    text-align: center ;
+    padding: 60px;
+    border: solid 2px black;
+    border-radius: 40px;
+}
+#banner h1 {
+    font-family: 'Lobster', cursive;
+    color: blue;
+    font-size: 34px;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+img{
+    width: 365px;
+    height: 250px ;
+    
+}
+#joker1{
+    width: 650px;
+    height: 650px ;
+
+}
+
+#para{
+    color:blue ;
+    font-size: 40px ;
+   
+}
+h3{
+    border: solid 2px blue;
+    border-radius: 10px;
+}
+#info{
+    font-size: 30px ;
+    color: purple ;
+}
+#merch{
+    display: flex; 
+    flex-direction:column;
+    opacity: 2.0;
+    border: solid 2px black;
+    border-radius: 10px;
+    border-width: 40px;
+    font-size: 40px ; 
+}
+.imgLeft {
+    float: left;
+    margin-right: 10px;
+} 
+
+
