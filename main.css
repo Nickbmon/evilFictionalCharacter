@@ -82,6 +82,7 @@ h3{
     border-radius: 10px;
 }
 #info{
+    background-color: linear-gradient(to bottom right, #000066 0%, #006600 100%) ;
     font-size: 30px ;
     color: purple ;
 }
